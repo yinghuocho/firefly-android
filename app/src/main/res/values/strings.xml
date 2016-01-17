@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Firefly-Android</string>
+    <string name="app_name">Firefly</string>
+
+    <string-array name="drawer_menu">
+        <item>Settings</item>
+        <item>Help</item>
+        <item>Contact &amp; Feedback</item>
+        <item>About Us</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="title_activity_feedback">FeedbackActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
 </resources>
