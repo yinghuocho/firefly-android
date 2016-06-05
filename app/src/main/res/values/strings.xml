@@ -11,4 +11,9 @@
     <string name="title_activity_help">HelpActivity</string>
     <string name="title_activity_feedback">FeedbackActivity</string>
     <string name="title_activity_about">AboutActivity</string>
+
+    <string name="connect">Connect!</string>
+    <string name="connecting">FireflyVPN is connecting...</string>
+    <string name="connected">FireflyVPN is connected!</string>
+    <string name="disconnected">FireflyVPN is disconnected!</string>
 </resources>

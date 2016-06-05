@@ -1,8 +1,10 @@
-package org.gofirefly.firefly_android;
+package org.gofirefly.firefly_android.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+
+import org.gofirefly.firefly_android.R;
 
 public class SettingsActivity extends AppCompatActivity {
 

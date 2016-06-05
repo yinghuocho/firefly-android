@@ -1,4 +1,4 @@
-package org.gofirefly.firefly_android;
+package org.gofirefly.firefly_android.activity;
 
 import android.content.Intent;
 import android.content.res.Configuration;
@@ -14,6 +14,7 @@ import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
+import org.gofirefly.firefly_android.R;
 import org.gofirefly.firefly_android.fragment.TabFragment;
 
 public class MainActivity extends AppCompatActivity {
@@ -68,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
 
         initTabFragment(savedInstanceState);
     }
+
 
     private void initTabFragment(Bundle savedInstanceState){
         if (savedInstanceState == null) {

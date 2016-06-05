@@ -1,4 +1,4 @@
-package org.gofirefly.firefly_android;
+package org.gofirefly.firefly_android.activity;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -6,6 +6,8 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+
+import org.gofirefly.firefly_android.R;
 
 public class FeedbackActivity extends AppCompatActivity {
 
